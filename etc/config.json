@@ -1,0 +1,11 @@
+{
+  "db": {
+    "login": "root",
+    "password": "root",
+    "name": "todo-app",
+    "host": "ds054619.mlab.com",
+    "port": "54619"
+  },
+  "serverPort": "8080",
+  "secret": "secret"
+}
